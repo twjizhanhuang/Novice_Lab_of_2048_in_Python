@@ -1,0 +1,1 @@
+### Novice Lab of 2048 in Python
